@@ -7,6 +7,7 @@ c=(2*y*(Ctip-Croot))/span+Croot
 Xfs=0.25*c; %front spar locations, VARIABLE
 Xrs=0.6*c; % rear spar location, VARIABLE
 x=0.7*(Xrs-Xfs)+y*tan(LEangle)-DFC*tan(LEangle);
+%git test
 
 end
 
