@@ -9,7 +9,6 @@ Xrs=0.6*c; % rear spar location, VARIABLE
 x=0.7*(Xrs-Xfs)+y*tan(LEangle)-DFC*tan(LEangle);
 %git test
 %git test 2
-%git test 3
 
 end
 
